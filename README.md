@@ -1,0 +1,1 @@
+This application involves Distributed Data Mining for astronomical data using Decision Tree algorithm and Principal Component Analysis algorithm. Work is being done to implement both the algorithms and improving the for Distributed data Mining. Apache HADOOP 1.0.4 is being used for the storage of the astronomical data.
